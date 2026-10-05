@@ -1,0 +1,10 @@
+AI:
+ 1. Genrative AI
+ 2. Agentic AI
+
+ML:
+ 1. Conventional learning
+ 2. Deep learning
+
+
+Project must be in one from 4.
