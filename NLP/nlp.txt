@@ -1,0 +1,9 @@
+Task:
+
+RAG Model
+   ↓
+Integrated with text - text Model and audio to text model  (API Integration)
+   ↓
+Ask in text or Audio
+   ↓
+Output (labels)
