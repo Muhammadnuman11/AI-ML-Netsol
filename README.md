@@ -23,6 +23,7 @@ This repository is organized by topic and learning module:
 - `NumPy and Pandas/` — numerical computing and data manipulation with NumPy and Pandas
 - `Pandas and Seaborn/` — data analysis, visualization, and exploratory data analysis
 - `Machine Learning/` — introduction to machine learning concepts and supervised/unsupervised learning foundations
+- `NLP/` — natural language processing exercises covering tokenization, text preprocessing, spaCy-based NLP workflows, and language analysis
 
 ## Learning Journey
 
@@ -68,6 +69,15 @@ Focus on:
 - Reinforcement learning
 - Introduction to AI and ML workflows
 
+### 6. Natural Language Processing (Completed)
+
+Focus on:
+- Text preprocessing and cleaning
+- Tokenization and sentence analysis
+- Stopword removal and normalization
+- Named entity and part-of-speech basics
+- Practical NLP workflows using spaCy
+
 ## Tools and Technologies
 
 - Python 3
@@ -81,7 +91,7 @@ Focus on:
 
 ## Current Progress
 
-The repository reflects an ongoing learning path with practical exercises and module-based study notes. Topics are expanded as the training continues.
+The repository reflects an ongoing learning path with practical exercises and module-based study notes. NLP has been completed successfully, and the training continues with deeper AI/ML topics and project work.
 
 ## Connect With Me
 
