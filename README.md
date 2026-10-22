@@ -22,7 +22,7 @@ This repository is organized by topic and learning module:
 - `OOP in python 06 - 07/` — object-oriented programming concepts such as abstraction, encapsulation, inheritance, and polymorphism
 - `NumPy and Pandas/` — numerical computing and data manipulation with NumPy and Pandas
 - `Pandas and Seaborn/` — data analysis, visualization, and exploratory data analysis
-- `Machine Learning/` — introduction to machine learning concepts and supervised/unsupervised learning foundations
+- `Machine Learning/` — supervised learning exercises covering regression and classification, and unsupervised learning exercises covering clustering, dimensionality reduction, autoencoders, and association rules
 - `NLP/` — natural language processing exercises covering tokenization, text preprocessing, spaCy-based NLP workflows, and language analysis
 
 ## Learning Journey
@@ -61,13 +61,13 @@ Focus on:
 - Data cleaning and transformation
 - Data visualization with Seaborn and Matplotlib
 
-### 5. Machine Learning Basics
+### 5. Machine Learning (Supervised and Unsupervised Learning Completed)
 
 Focus on:
-- Supervised learning
-- Unsupervised learning
-- Reinforcement learning
-- Introduction to AI and ML workflows
+- Supervised learning: linear and polynomial regression, logistic regression, train/test splits, and model evaluation
+- Unsupervised learning: DBSCAN and Gaussian Mixture Model clustering, PCA, autoencoders, and frequent itemset/association-rule mining
+- Practical machine learning workflows using NumPy, Pandas, and scikit-learn
+- Reinforcement learning and self-supervised learning are additional topics for future study
 
 ### 6. Natural Language Processing (Completed)
 
@@ -91,7 +91,7 @@ Focus on:
 
 ## Current Progress
 
-The repository reflects an ongoing learning path with practical exercises and module-based study notes. NLP has been completed successfully, and the training continues with deeper AI/ML topics and project work.
+The repository reflects an ongoing learning path with practical exercises and module-based study notes. Supervised learning, unsupervised learning, and NLP have been completed. The training continues with additional AI/ML topics and project work.
 
 ## Connect With Me
 
