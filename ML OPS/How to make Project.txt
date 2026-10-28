@@ -1,0 +1,16 @@
+Microsoft Azure
+POC
+MVP
+Deploy
+Sandbox Texting:
+	QA: 
+Automation -> Selenium – Test Case , Postman
+Manual
+Staging Environment 
+Production
+
+                Types of Companies
+
+    Services based          Products based
+
+
